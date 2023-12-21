@@ -228,3 +228,9 @@ class _register_screenState extends State<register_screen> {
         ));
   }
 }
+
+class TextEditingController {
+}
+
+class SizedBox {
+}
